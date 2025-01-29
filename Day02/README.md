@@ -4,7 +4,7 @@
 ## Table of Contents
 - [My Learnings Today](#my-learnings-today-)
 - [Challenges and Solutions](#challenges-and-solutions-)
-- [Today's Logs](#today's-logs-)
+- [Today's Logs](#todays-logs-)
 - [Key Highlights](#key-highlights-)
 - [References](#references-)
 
@@ -41,7 +41,7 @@
 
 ### Python Package Messed up and dpkg Nightmare in Ubuntu
 
-- At first showing error while initializing new Virtual python environment, then resolving process led to all other problems down the line
+- At first got error while initializing new python Virtual Environment, then resolving process led to all other problems down the line
 
 - **Broken Python Package Installation:** Encountered critical issues like -
   - Python-related packages were broken
