@@ -2,11 +2,11 @@
 
 
 ## Table of Contents
-- [My Learnings Today](#my-learnings-today-🎯)
-- [Challenges and Solutions](#challenges-and-solutions-🚧)
-- [Today's Logs](#today's-logs-📅)
-- [Key Highlights](#key-highlights-🌟)
-- [References](#references-📚)
+- [My Learnings Today](#my-learnings-today-)
+- [Challenges and Solutions](#challenges-and-solutions-)
+- [Today's Logs](#today's-logs-)
+- [Key Highlights](#key-highlights-)
+- [References](#references-)
 
 
 
