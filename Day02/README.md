@@ -25,6 +25,7 @@
     - Regular posts and engagement in the community
     - Detailed Experience section (if have any)
     - Project details
+
   - What to INCLUDE and What SHOULD NOT be included
   - Be consistent and relevant to the topic
 
