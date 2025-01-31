@@ -13,7 +13,7 @@
 ## My Learnings Today 🎯
 
 - Learned about EC2 Instance setup
-  - AMI (Amazon Machine Image) and Instance type s
+  - AMI (Amazon Machine Image) and Instance types
   - How to access Remote Instance using SSH Key (.pem file)
 
   - How to setup Security groups
