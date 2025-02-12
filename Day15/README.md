@@ -13,7 +13,7 @@
 ## My Learnings Today 🎯
 
 - Jenkins log files and how to upload them to s3 bucket using shell script
-- AWS System Manager to store credentui
+- AWS System Manager to store credentials
 - Studied to understand Dockerfile examples (for nodejs, python, .NET projects)
 
 
