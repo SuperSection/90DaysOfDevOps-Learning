@@ -12,7 +12,7 @@
 
 ## My Learnings Today 🎯
 
-- Leaned about Azure VM, Container Regitries, Resource Group
+- Learned about Azure VM, Container Regitries, Resource Group
 
 - Learned about Azure DevOps platform
   - How to setup project
